@@ -1,2 +1,2 @@
 # springboot-admin-client
-springboot admin server demo
+springboot admin client demo
